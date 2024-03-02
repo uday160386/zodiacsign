@@ -1,0 +1,6 @@
+﻿my date of birth is {day} {year} {month}
+my date of birth is {month} {day} {year}
+my date of birth is {year} {day} {month}
+my year is {year}
+my month is {day}
+my month s {month}
